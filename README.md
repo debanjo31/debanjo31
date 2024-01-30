@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adebanjo Israel</h1>
-<h3 align="center">Am a young front-end developer from Lagos,Nigeria</h3>
+<h3 align="center">Solution-Driven Fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
