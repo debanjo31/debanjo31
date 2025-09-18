@@ -19,7 +19,7 @@ I’m a Lagos-based software engineer with 4+ years of experience building backe
 ### ⚙️ Tech Stack
 **Backend:** Node.js, NestJS, Express, TypeScript, Prisma, REST, GraphQL 
 **Frontend:** React, Next.js, React Native, Tailwind CSS  
-**Databases:** PostgreSQL, MongoDB, Redis  
+**Databases:** PostgreSQL, SQL, MongoDB, Redis  
 **DevOps:** Docker, GitHub Actions, AWS (EC2, S3, CDK), CI/CD pipelines  
 **AI/ML:** OpenAI API, embeddings, RAG workflows, prompt engineering  
 
