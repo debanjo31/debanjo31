@@ -22,7 +22,7 @@ I am especially interested in:
 ## About Me
 
 * ☁️ Cloud Engineer with a strong backend engineering background
-* 🏅 AWS Certified Solutions Architect – Professional
+* 🏅 AWS Certified Solutions Architect Professional
 * 🏗️ Building cloud infrastructure with AWS CDK and Terraform
 * ⚙️ Developing scalable backend services with Node.js, NestJS and TypeScript
 * 🚀 Automating delivery with GitHub Actions and AWS CI/CD services
@@ -56,7 +56,6 @@ I am especially interested in:
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
